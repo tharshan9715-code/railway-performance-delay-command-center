@@ -1,0 +1,201 @@
+Train_ID,Train_Name,Train_Type,Coach_Count,Operating_Zone
+TR0001,Vande Bharat Express,Superfast,19,Northern
+TR0002,Rajdhani Express,Mail,15,Southern
+TR0003,Shatabdi Express,Express,22,South Central
+TR0004,Duronto Express,Express,12,South Central
+TR0005,Garib Rath Express,Vande Bharat,19,Eastern
+TR0006,Tejas Express,Vande Bharat,15,South Western
+TR0007,Humsafar Express,Vande Bharat,17,Central
+TR0008,Gatimaan Express,Intercity,19,Central
+TR0009,Deccan Queen,Express,15,South Central
+TR0010,Konkan Kanya Express,Express,14,Eastern
+TR0011,Chennai Express,Vande Bharat,20,Northern
+TR0012,Tamil Nadu Express,Mail,14,Central
+TR0013,Grand Trunk Express,Express,20,Northern
+TR0014,Kaveri Express,Rajdhani,13,South Western
+TR0015,Vaigai Superfast Express,Rajdhani,13,Central
+TR0016,Pandian Express,Rajdhani,13,Central
+TR0017,Nellai Superfast Express,Shatabdi,17,Western
+TR0018,Cheran Superfast Express,Superfast,14,Central
+TR0019,Coimbatore Intercity Express,Superfast,20,Southern
+TR0020,Madurai Intercity Express,Shatabdi,15,Eastern
+TR0021,Rockfort Superfast Express,Express,12,Eastern
+TR0022,Cholan Express,Vande Bharat,15,Northern
+TR0023,Mangalore Mail,Shatabdi,12,South Western
+TR0024,Kerala Express,Superfast,16,Central
+TR0025,Karnataka Express,Superfast,15,Southern
+TR0026,Andhra Pradesh Express,Express,19,Northern
+TR0027,Howrah Mail,Rajdhani,19,Western
+TR0028,Mumbai Mail,Superfast,18,Northern
+TR0029,Bengaluru Rajdhani,Express,14,Northern
+TR0030,Mumbai Rajdhani,Vande Bharat,12,Central
+TR0031,Sealdah Rajdhani,Express,12,Western
+TR0032,Bhubaneswar Rajdhani,Rajdhani,23,Northern
+TR0033,Patna Rajdhani,Vande Bharat,22,Southern
+TR0034,Secunderabad Rajdhani,Mail,14,Southern
+TR0035,August Kranti Rajdhani,Mail,17,Eastern
+TR0036,Bandra Terminus–Haridwar Express,Express,18,Western
+TR0037,Amritsar Shatabdi,Shatabdi,17,Western
+TR0038,New Delhi–Bhopal Shatabdi,Vande Bharat,17,Eastern
+TR0039,Chennai–Mysuru Shatabdi,Express,17,Northern
+TR0040,New Delhi–Ajmer Shatabdi,Superfast,14,Western
+TR0041,Kalka Shatabdi,Vande Bharat,17,Southern
+TR0042,Executive Shatabdi,Superfast,19,Southern
+TR0043,Chennai–Coimbatore Vande Bharat,Vande Bharat,22,Central
+TR0044,Chennai–Bengaluru Vande Bharat,Intercity,22,Western
+TR0045,Madurai–Bengaluru Vande Bharat,Shatabdi,13,Northern
+TR0046,Secunderabad–Visakhapatnam Vande Bharat,Express,16,Eastern
+TR0047,Coimbatore–Chennai Intercity Express,Superfast,12,Eastern
+TR0048,Bengaluru–Coimbatore Uday Express,Superfast,23,Northern
+TR0049,Double Decker Express,Superfast,12,South Western
+TR0050,Jan Shatabdi Express,Rajdhani,16,South Central
+TR0051,Antyodaya Express,Mail,23,Central
+TR0052,Sampark Kranti Express,Express,14,Eastern
+TR0053,Amarkantak Express,Intercity,15,Western
+TR0054,Nizamuddin–Jabalpur Express,Intercity,14,Central
+TR0055,Brindavan Express,Express,12,Western
+TR0056,Pallavan Express,Intercity,12,South Western
+TR0057,Mysuru Express,Vande Bharat,23,Southern
+TR0058,West Coast Express,Rajdhani,23,Central
+TR0059,Island Express,Vande Bharat,16,Eastern
+TR0060,Malabar Express,Superfast,17,Central
+TR0061,Venad Express,Superfast,14,Central
+TR0062,Parasuram Express,Shatabdi,23,Central
+TR0063,Sabari Express,Express,20,South Central
+TR0064,Ernad Express,Superfast,16,Central
+TR0065,Matsyagandha Express,Shatabdi,19,Western
+TR0066,Netravati Express,Superfast,12,Southern
+TR0067,August Kranti Tejas Rajdhani,Vande Bharat,16,South Western
+TR0068,Mumbai Central–Ahmedabad Vande Bharat,Express,14,Northern
+TR0069,Ahmedabad–Mumbai Vande Bharat,Vande Bharat,23,Central
+TR0070,Delhi–Varanasi Vande Bharat,Mail,12,Eastern
+TR0071,Delhi–Dehradun Vande Bharat,Express,15,Central
+TR0072,Delhi–Katra Vande Bharat,Rajdhani,16,Eastern
+TR0073,Delhi–Amritsar Vande Bharat,Vande Bharat,18,Western
+TR0074,Mumbai–Pune Intercity Express,Express,12,Eastern
+TR0075,Pune–Mumbai Intercity Express,Express,14,Northern
+TR0076,Mumbai–Nagpur Vande Bharat,Express,13,Southern
+TR0077,Nagpur–Bilaspur Vande Bharat,Express,20,Eastern
+TR0078,Bhopal–Indore Vande Bharat,Vande Bharat,21,Eastern
+TR0079,Jaipur–Delhi Vande Bharat,Superfast,17,Southern
+TR0080,Ajmer–Delhi Vande Bharat,Vande Bharat,21,Northern
+TR0081,Patna–Ranchi Vande Bharat,Intercity,14,Central
+TR0082,Ranchi–Patna Vande Bharat,Express,19,Eastern
+TR0083,Howrah–Patna Vande Bharat,Superfast,19,Southern
+TR0084,Howrah–Ranchi Vande Bharat,Vande Bharat,13,Western
+TR0085,Howrah–New Jalpaiguri Vande Bharat,Superfast,17,Southern
+TR0086,Guwahati–New Jalpaiguri Vande Bharat,Superfast,18,Western
+TR0087,Howrah–Puri Vande Bharat,Express,13,Northern
+TR0088,Puri–Howrah Vande Bharat,Express,22,Central
+TR0089,Chennai–Nagercoil Vande Bharat,Intercity,21,Southern
+TR0090,Nagercoil–Chennai Vande Bharat,Superfast,13,South Western
+TR0091,Chennai–Tirunelveli Vande Bharat,Vande Bharat,21,South Western
+TR0092,Tirunelveli–Chennai Vande Bharat,Express,12,South Central
+TR0093,Mangalore–Goa Vande Bharat,Express,19,Eastern
+TR0094,Goa–Mangalore Vande Bharat,Express,12,Northern
+TR0095,Secunderabad–Bengaluru Vande Bharat,Express,20,Southern
+TR0096,Bengaluru–Secunderabad Vande Bharat,Superfast,22,South Western
+TR0097,Visakhapatnam–Secunderabad Vande Bharat,Superfast,17,Eastern
+TR0098,Ranchi–Howrah Vande Bharat,Superfast,18,South Western
+TR0099,Ranchi–Patna Vande Bharat Special,Vande Bharat,21,Southern
+TR0100,Duronto Express Express,Vande Bharat,18,Western
+TR0101,Bhubaneswar Rajdhani SF,Vande Bharat,21,Southern
+TR0102,Cheran Superfast Express Special,Express,14,South Central
+TR0103,Howrah–Puri Vande Bharat Special,Superfast,13,Southern
+TR0104,Mumbai–Nagpur Vande Bharat (Simulated Service),Superfast,20,Southern
+TR0105,Garib Rath Express Special,Intercity,19,South Central
+TR0106,Tamil Nadu Express SF,Shatabdi,23,Northern
+TR0107,Mumbai Rajdhani Special,Superfast,21,Southern
+TR0108,Delhi–Katra Vande Bharat SF,Express,18,South Central
+TR0109,Tirunelveli–Chennai Vande Bharat (Simulated Service),Rajdhani,20,Eastern
+TR0110,Bengaluru Rajdhani (Simulated Service),Vande Bharat,15,Western
+TR0111,Mumbai–Nagpur Vande Bharat Express,Shatabdi,15,Western
+TR0112,Mumbai–Nagpur Vande Bharat (Simulated Service) Special,Rajdhani,12,Southern
+TR0113,Ranchi–Howrah Vande Bharat SF,Intercity,19,Northern
+TR0114,Nagercoil–Chennai Vande Bharat (Simulated Service),Express,23,Northern
+TR0115,Chennai–Bengaluru Vande Bharat Express,Express,14,Eastern
+TR0116,Madurai Intercity Express SF,Intercity,18,Southern
+TR0117,Ranchi–Howrah Vande Bharat Express,Express,23,Western
+TR0118,Kaveri Express Special,Rajdhani,13,Northern
+TR0119,Double Decker Express Special,Intercity,13,Southern
+TR0120,Secunderabad–Visakhapatnam Vande Bharat Express,Superfast,18,South Western
+TR0121,Bhopal–Indore Vande Bharat Express,Express,17,Northern
+TR0122,Goa–Mangalore Vande Bharat (Simulated Service),Intercity,14,South Central
+TR0123,Ahmedabad–Mumbai Vande Bharat Special,Superfast,20,South Western
+TR0124,Double Decker Express Special (Simulated Service),Vande Bharat,21,Northern
+TR0125,Chennai Express Express,Rajdhani,17,Western
+TR0126,Mumbai Rajdhani Special Express,Superfast,21,Central
+TR0127,Mumbai–Pune Intercity Express SF,Express,21,South Western
+TR0128,Chennai–Tirunelveli Vande Bharat Special,Intercity,17,Eastern
+TR0129,Pune–Mumbai Intercity Express Special,Vande Bharat,12,Eastern
+TR0130,Malabar Express Special,Superfast,15,Western
+TR0131,Ranchi–Howrah Vande Bharat Express Express,Superfast,21,Northern
+TR0132,Executive Shatabdi Express,Rajdhani,17,Southern
+TR0133,Chennai–Tirunelveli Vande Bharat SF,Vande Bharat,17,Northern
+TR0134,Chennai–Bengaluru Vande Bharat SF,Superfast,22,Western
+TR0135,Executive Shatabdi (Simulated Service),Mail,23,Eastern
+TR0136,Mysuru Express Express,Superfast,16,Northern
+TR0137,Vaigai Superfast Express SF,Superfast,12,Eastern
+TR0138,Deccan Queen Express,Express,19,South Western
+TR0139,Howrah–Puri Vande Bharat Special Express,Superfast,16,Southern
+TR0140,Nellai Superfast Express SF,Mail,23,South Western
+TR0141,Patna–Ranchi Vande Bharat SF,Mail,23,Eastern
+TR0142,Chennai–Tirunelveli Vande Bharat Special (Simulated Service),Shatabdi,23,Eastern
+TR0143,Kaveri Express Special SF,Superfast,16,Central
+TR0144,Mumbai Central–Ahmedabad Vande Bharat SF,Shatabdi,18,Central
+TR0145,Ernad Express Express,Shatabdi,15,South Western
+TR0146,Bengaluru Rajdhani (Simulated Service) (Simulated Service),Vande Bharat,17,South Central
+TR0147,Mangalore–Goa Vande Bharat SF,Express,15,South Western
+TR0148,Bandra Terminus–Haridwar Express (Simulated Service),Superfast,14,Central
+TR0149,Kerala Express Special,Vande Bharat,18,Eastern
+TR0150,Bengaluru Rajdhani SF,Shatabdi,19,Western
+TR0151,Kalka Shatabdi (Simulated Service),Intercity,15,South Western
+TR0152,Nellai Superfast Express (Simulated Service),Rajdhani,13,Eastern
+TR0153,Ranchi–Howrah Vande Bharat (Simulated Service),Vande Bharat,23,Western
+TR0154,Mysuru Express Express Express,Superfast,21,Western
+TR0155,Chennai–Tirunelveli Vande Bharat Special (Simulated Service) Special,Mail,14,Central
+TR0156,Mumbai Rajdhani Express,Shatabdi,12,South Western
+TR0157,Puri–Howrah Vande Bharat Special,Express,19,Northern
+TR0158,Vande Bharat Express Express,Express,14,Southern
+TR0159,Pune–Mumbai Intercity Express Special SF,Rajdhani,23,Central
+TR0160,Malabar Express Special Special,Express,21,Central
+TR0161,Nagpur–Bilaspur Vande Bharat SF,Superfast,18,Northern
+TR0162,New Delhi–Ajmer Shatabdi Express,Express,21,Southern
+TR0163,Executive Shatabdi Special,Express,16,Eastern
+TR0164,Mysuru Express Express Express Express,Superfast,21,South Central
+TR0165,Mumbai Rajdhani Special Express Special,Vande Bharat,16,South Western
+TR0166,Bengaluru Rajdhani Express,Express,18,South Central
+TR0167,Jaipur–Delhi Vande Bharat SF,Superfast,20,Eastern
+TR0168,Bengaluru Rajdhani (Simulated Service) (Simulated Service) Special,Rajdhani,23,Central
+TR0169,Cholan Express (Simulated Service),Vande Bharat,16,Southern
+TR0170,Cheran Superfast Express SF,Express,12,Central
+TR0171,Patna Rajdhani (Simulated Service),Express,21,Western
+TR0172,Patna–Ranchi Vande Bharat SF SF,Vande Bharat,21,Central
+TR0173,Mumbai Central–Ahmedabad Vande Bharat (Simulated Service),Superfast,12,Central
+TR0174,Brindavan Express SF,Rajdhani,13,Eastern
+TR0175,Ajmer–Delhi Vande Bharat (Simulated Service),Express,17,Eastern
+TR0176,Patna–Ranchi Vande Bharat SF SF Express,Rajdhani,20,Eastern
+TR0177,Ranchi–Howrah Vande Bharat SF (Simulated Service),Express,19,South Central
+TR0178,Sealdah Rajdhani SF,Superfast,16,Western
+TR0179,West Coast Express Special,Intercity,12,Eastern
+TR0180,Kalka Shatabdi (Simulated Service) SF,Vande Bharat,18,Southern
+TR0181,Rajdhani Express Special,Superfast,16,South Central
+TR0182,New Delhi–Ajmer Shatabdi Express Special,Vande Bharat,17,Northern
+TR0183,Island Express Special,Intercity,18,Southern
+TR0184,Coimbatore Intercity Express SF,Intercity,14,South Western
+TR0185,Delhi–Katra Vande Bharat (Simulated Service),Shatabdi,23,South Western
+TR0186,Mangalore–Goa Vande Bharat SF (Simulated Service),Express,21,Southern
+TR0187,Sabari Express (Simulated Service),Express,14,Eastern
+TR0188,Garib Rath Express Special SF,Superfast,16,Northern
+TR0189,Karnataka Express Special,Superfast,17,Northern
+TR0190,Cholan Express (Simulated Service) (Simulated Service),Shatabdi,20,South Central
+TR0191,Chennai–Tirunelveli Vande Bharat (Simulated Service),Vande Bharat,23,Northern
+TR0192,Tamil Nadu Express SF (Simulated Service),Intercity,16,South Western
+TR0193,Sabari Express (Simulated Service) Special,Intercity,12,Western
+TR0194,Mumbai Central–Ahmedabad Vande Bharat (Simulated Service) Special,Express,15,Eastern
+TR0195,Pandian Express (Simulated Service),Superfast,16,Northern
+TR0196,Sabari Express (Simulated Service) Express,Superfast,23,South Central
+TR0197,Mumbai Mail SF,Express,21,South Western
+TR0198,Jan Shatabdi Express SF,Intercity,21,Western
+TR0199,Deccan Queen Express (Simulated Service),Intercity,16,Central
+TR0200,Coimbatore–Chennai Intercity Express Express,Express,18,Central

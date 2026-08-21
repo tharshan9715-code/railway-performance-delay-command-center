@@ -1,0 +1,101 @@
+Station_ID,Station_Name,Zone,Station_Type
+ST0001,Chennai Central,Western,Regional
+ST0002,Chennai Egmore,South Western,Terminal
+ST0003,Coimbatore Junction,South Central,Regional
+ST0004,Madurai Junction,Western,Major
+ST0005,Tiruchirappalli Junction,Eastern,Junction
+ST0006,Salem Junction,Eastern,Junction
+ST0007,Erode Junction,Central,Regional
+ST0008,Tirunelveli Junction,Northern,Junction
+ST0009,Nagercoil Junction,South Central,Regional
+ST0010,Bengaluru City Junction,Central,Junction
+ST0011,Mysuru Junction,Northern,Major
+ST0012,Mangaluru Central,Northern,Junction
+ST0013,Hyderabad Deccan,Eastern,Regional
+ST0014,Secunderabad Junction,South Western,Major
+ST0015,Vijayawada Junction,Southern,Terminal
+ST0016,Visakhapatnam,South Western,Terminal
+ST0017,New Delhi,Southern,Terminal
+ST0018,Hazrat Nizamuddin,Western,Terminal
+ST0019,Delhi Junction,Eastern,Terminal
+ST0020,Anand Vihar Terminal,Northern,Major
+ST0021,Mumbai Central,South Central,Major
+ST0022,Chhatrapati Shivaji Maharaj Terminus,Southern,Major
+ST0023,Bandra Terminus,South Western,Regional
+ST0024,Dadar Central,Northern,Major
+ST0025,Pune Junction,Southern,Major
+ST0026,Nagpur Junction,Southern,Regional
+ST0027,Bhopal Junction,Southern,Junction
+ST0028,Indore Junction,South Central,Junction
+ST0029,Ahmedabad Junction,Eastern,Junction
+ST0030,Vadodara Junction,South Central,Junction
+ST0031,Surat,Central,Junction
+ST0032,Jaipur Junction,Northern,Junction
+ST0033,Ajmer Junction,Eastern,Regional
+ST0034,Kota Junction,Eastern,Regional
+ST0035,Amritsar Junction,Eastern,Terminal
+ST0036,Ludhiana Junction,South Western,Junction
+ST0037,Chandigarh,Eastern,Terminal
+ST0038,Dehradun,South Central,Junction
+ST0039,Shri Mata Vaishno Devi Katra,Eastern,Junction
+ST0040,Lucknow Charbagh,Western,Regional
+ST0041,Kanpur Central,Northern,Junction
+ST0042,Prayagraj Junction,Eastern,Regional
+ST0043,Varanasi Junction,Northern,Regional
+ST0044,Patna Junction,Western,Terminal
+ST0045,Ranchi Junction,Western,Regional
+ST0046,Howrah Junction,Northern,Major
+ST0047,Sealdah,Southern,Junction
+ST0048,Kolkata,Central,Junction
+ST0049,Bhubaneswar,South Western,Regional
+ST0050,Puri,Southern,Major
+ST0051,Guwahati,Southern,Regional
+ST0052,New Jalpaiguri,South Central,Regional
+ST0053,Bengaluru Cantt,South Western,Major
+ST0054,Yesvantpur Junction,South Western,Regional
+ST0055,Krishnarajapuram,Southern,Major
+ST0056,Kozhikode,Eastern,Major
+ST0057,Ernakulam Junction,South Central,Major
+ST0058,Thiruvananthapuram Central,South Central,Terminal
+ST0059,Kollam Junction,Western,Major
+ST0060,Thrissur,South Western,Major
+ST0061,Kottayam,Southern,Junction
+ST0062,Alappuzha,Western,Regional
+ST0063,Palakkad Junction,Northern,Junction
+ST0064,Kannur,Central,Major
+ST0065,Mangalore Junction,South Central,Major
+ST0066,Goa Madgaon,Northern,Regional
+ST0067,Vasco da Gama,Northern,Junction
+ST0068,Ratlam Junction,Eastern,Regional
+ST0069,Ujjain Junction,Central,Regional
+ST0070,Gwalior Junction,Northern,Terminal
+ST0071,Jhansi Junction,Northern,Terminal
+ST0072,Agra Cantt,Central,Major
+ST0073,Mathura Junction,Central,Junction
+ST0074,Ambala Cantt,Northern,Junction
+ST0075,Panipat Junction,Central,Major
+ST0076,Meerut City,Northern,Junction
+ST0077,Ghaziabad Junction,Northern,Major
+ST0078,Bareilly Junction,Eastern,Junction
+ST0079,Moradabad Junction,Southern,Major
+ST0080,Jodhpur Junction,Northern,Junction
+ST0081,Bikaner Junction,Western,Major
+ST0082,Gandhinagar Capital,South Central,Junction
+ST0083,Rajkot Junction,South Western,Major
+ST0084,Surendranagar,Southern,Junction
+ST0085,Bhavnagar Terminus,Southern,Regional
+ST0086,Vasai Road,Southern,Major
+ST0087,Thane,Eastern,Regional
+ST0088,Kalyan Junction,Northern,Major
+ST0089,Panvel,Eastern,Junction
+ST0090,Nashik Road,Northern,Regional
+ST0091,Aurangabad,Eastern,Junction
+ST0092,Solapur,Eastern,Junction
+ST0093,Kolhapur,South Central,Terminal
+ST0094,Belagavi,Western,Major
+ST0095,Hubballi Junction,Eastern,Major
+ST0096,Davangere,South Central,Junction
+ST0097,Tumakuru,Central,Regional
+ST0098,Hassan,Western,Terminal
+ST0099,Karimnagar,Eastern,Junction
+ST0100,Warangal,South Western,Junction
