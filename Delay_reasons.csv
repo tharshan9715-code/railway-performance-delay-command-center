@@ -1,0 +1,8 @@
+Delay_Reason_ID,Delay_Reason,Severity
+1,Signal Failure,High
+2,Weather,Medium
+3,Technical Issue,High
+4,Congestion,High
+5,Crew Delay,Medium
+6,Track Maintenance,Medium
+7,No Delay,None

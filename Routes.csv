@@ -1,0 +1,301 @@
+Route_ID,Origin_Station_ID,Destination_Station_ID,Distance_KM,Origin_Station,Destination_Station
+RT0001,ST0060,ST0032,388,Thrissur,Jaipur Junction
+RT0002,ST0057,ST0071,481,Ernakulam Junction,Jhansi Junction
+RT0003,ST0007,ST0084,140,Erode Junction,Surendranagar
+RT0004,ST0012,ST0097,1048,Mangaluru Central,Tumakuru
+RT0005,ST0022,ST0053,2069,Chhatrapati Shivaji Maharaj Terminus,Bengaluru Cantt
+RT0006,ST0062,ST0028,1722,Alappuzha,Indore Junction
+RT0007,ST0008,ST0022,1632,Tirunelveli Junction,Chhatrapati Shivaji Maharaj Terminus
+RT0008,ST0001,ST0050,1166,Chennai Central,Puri
+RT0009,ST0059,ST0037,1812,Kollam Junction,Chandigarh
+RT0010,ST0090,ST0094,2073,Nashik Road,Belagavi
+RT0011,ST0020,ST0025,1295,Anand Vihar Terminal,Pune Junction
+RT0012,ST0028,ST0008,329,Indore Junction,Tirunelveli Junction
+RT0013,ST0096,ST0041,314,Davangere,Kanpur Central
+RT0014,ST0007,ST0075,2032,Erode Junction,Panipat Junction
+RT0015,ST0065,ST0068,724,Mangalore Junction,Ratlam Junction
+RT0016,ST0008,ST0066,408,Tirunelveli Junction,Goa Madgaon
+RT0017,ST0024,ST0009,358,Dadar Central,Nagercoil Junction
+RT0018,ST0087,ST0031,1733,Thane,Surat
+RT0019,ST0016,ST0073,1088,Visakhapatnam,Mathura Junction
+RT0020,ST0075,ST0077,242,Panipat Junction,Ghaziabad Junction
+RT0021,ST0080,ST0011,1797,Jodhpur Junction,Mysuru Junction
+RT0022,ST0085,ST0075,1375,Bhavnagar Terminus,Panipat Junction
+RT0023,ST0034,ST0027,1366,Kota Junction,Bhopal Junction
+RT0024,ST0031,ST0034,1701,Surat,Kota Junction
+RT0025,ST0017,ST0086,1308,New Delhi,Vasai Road
+RT0026,ST0059,ST0041,377,Kollam Junction,Kanpur Central
+RT0027,ST0002,ST0059,489,Chennai Egmore,Kollam Junction
+RT0028,ST0010,ST0069,953,Bengaluru City Junction,Ujjain Junction
+RT0029,ST0065,ST0034,622,Mangalore Junction,Kota Junction
+RT0030,ST0045,ST0009,1080,Ranchi Junction,Nagercoil Junction
+RT0031,ST0048,ST0037,726,Kolkata,Chandigarh
+RT0032,ST0057,ST0070,1319,Ernakulam Junction,Gwalior Junction
+RT0033,ST0079,ST0084,112,Moradabad Junction,Surendranagar
+RT0034,ST0086,ST0071,1306,Vasai Road,Jhansi Junction
+RT0035,ST0085,ST0014,630,Bhavnagar Terminus,Secunderabad Junction
+RT0036,ST0034,ST0015,518,Kota Junction,Vijayawada Junction
+RT0037,ST0096,ST0071,716,Davangere,Jhansi Junction
+RT0038,ST0035,ST0037,942,Amritsar Junction,Chandigarh
+RT0039,ST0092,ST0044,913,Solapur,Patna Junction
+RT0040,ST0088,ST0082,1161,Kalyan Junction,Gandhinagar Capital
+RT0041,ST0065,ST0063,1108,Mangalore Junction,Palakkad Junction
+RT0042,ST0007,ST0012,1814,Erode Junction,Mangaluru Central
+RT0043,ST0036,ST0006,94,Ludhiana Junction,Salem Junction
+RT0044,ST0043,ST0099,615,Varanasi Junction,Karimnagar
+RT0045,ST0082,ST0034,741,Gandhinagar Capital,Kota Junction
+RT0046,ST0095,ST0057,1831,Hubballi Junction,Ernakulam Junction
+RT0047,ST0072,ST0002,538,Agra Cantt,Chennai Egmore
+RT0048,ST0010,ST0089,690,Bengaluru City Junction,Panvel
+RT0049,ST0070,ST0005,1592,Gwalior Junction,Tiruchirappalli Junction
+RT0050,ST0075,ST0071,686,Panipat Junction,Jhansi Junction
+RT0051,ST0056,ST0017,251,Kozhikode,New Delhi
+RT0052,ST0040,ST0047,243,Lucknow Charbagh,Sealdah
+RT0053,ST0046,ST0027,1102,Howrah Junction,Bhopal Junction
+RT0054,ST0086,ST0014,1528,Vasai Road,Secunderabad Junction
+RT0055,ST0100,ST0072,1744,Warangal,Agra Cantt
+RT0056,ST0080,ST0096,713,Jodhpur Junction,Davangere
+RT0057,ST0031,ST0021,805,Surat,Mumbai Central
+RT0058,ST0053,ST0004,814,Bengaluru Cantt,Madurai Junction
+RT0059,ST0095,ST0043,1766,Hubballi Junction,Varanasi Junction
+RT0060,ST0086,ST0095,1096,Vasai Road,Hubballi Junction
+RT0061,ST0035,ST0021,522,Amritsar Junction,Mumbai Central
+RT0062,ST0049,ST0005,2007,Bhubaneswar,Tiruchirappalli Junction
+RT0063,ST0029,ST0026,1965,Ahmedabad Junction,Nagpur Junction
+RT0064,ST0045,ST0040,1012,Ranchi Junction,Lucknow Charbagh
+RT0065,ST0029,ST0004,871,Ahmedabad Junction,Madurai Junction
+RT0066,ST0052,ST0043,1221,New Jalpaiguri,Varanasi Junction
+RT0067,ST0009,ST0099,1223,Nagercoil Junction,Karimnagar
+RT0068,ST0045,ST0083,2166,Ranchi Junction,Rajkot Junction
+RT0069,ST0052,ST0087,1436,New Jalpaiguri,Thane
+RT0070,ST0004,ST0015,1149,Madurai Junction,Vijayawada Junction
+RT0071,ST0023,ST0075,1167,Bandra Terminus,Panipat Junction
+RT0072,ST0005,ST0014,1859,Tiruchirappalli Junction,Secunderabad Junction
+RT0073,ST0045,ST0094,1364,Ranchi Junction,Belagavi
+RT0074,ST0056,ST0078,2174,Kozhikode,Bareilly Junction
+RT0075,ST0015,ST0050,858,Vijayawada Junction,Puri
+RT0076,ST0033,ST0006,1866,Ajmer Junction,Salem Junction
+RT0077,ST0001,ST0067,887,Chennai Central,Vasco da Gama
+RT0078,ST0047,ST0056,366,Sealdah,Kozhikode
+RT0079,ST0086,ST0043,1365,Vasai Road,Varanasi Junction
+RT0080,ST0085,ST0016,1310,Bhavnagar Terminus,Visakhapatnam
+RT0081,ST0065,ST0040,1752,Mangalore Junction,Lucknow Charbagh
+RT0082,ST0042,ST0052,1291,Prayagraj Junction,New Jalpaiguri
+RT0083,ST0071,ST0017,865,Jhansi Junction,New Delhi
+RT0084,ST0054,ST0086,1632,Yesvantpur Junction,Vasai Road
+RT0085,ST0087,ST0096,792,Thane,Davangere
+RT0086,ST0079,ST0073,1312,Moradabad Junction,Mathura Junction
+RT0087,ST0052,ST0071,81,New Jalpaiguri,Jhansi Junction
+RT0088,ST0039,ST0037,940,Shri Mata Vaishno Devi Katra,Chandigarh
+RT0089,ST0056,ST0075,1399,Kozhikode,Panipat Junction
+RT0090,ST0060,ST0057,1891,Thrissur,Ernakulam Junction
+RT0091,ST0087,ST0028,2173,Thane,Indore Junction
+RT0092,ST0061,ST0095,775,Kottayam,Hubballi Junction
+RT0093,ST0085,ST0011,1242,Bhavnagar Terminus,Mysuru Junction
+RT0094,ST0066,ST0085,1452,Goa Madgaon,Bhavnagar Terminus
+RT0095,ST0012,ST0097,1042,Mangaluru Central,Tumakuru
+RT0096,ST0087,ST0040,1000,Thane,Lucknow Charbagh
+RT0097,ST0026,ST0019,180,Nagpur Junction,Delhi Junction
+RT0098,ST0006,ST0032,2026,Salem Junction,Jaipur Junction
+RT0099,ST0079,ST0099,378,Moradabad Junction,Karimnagar
+RT0100,ST0059,ST0054,876,Kollam Junction,Yesvantpur Junction
+RT0101,ST0092,ST0090,1652,Solapur,Nashik Road
+RT0102,ST0064,ST0052,1079,Kannur,New Jalpaiguri
+RT0103,ST0019,ST0084,102,Delhi Junction,Surendranagar
+RT0104,ST0097,ST0099,516,Tumakuru,Karimnagar
+RT0105,ST0100,ST0055,976,Warangal,Krishnarajapuram
+RT0106,ST0023,ST0090,1982,Bandra Terminus,Nashik Road
+RT0107,ST0007,ST0072,1100,Erode Junction,Agra Cantt
+RT0108,ST0016,ST0059,626,Visakhapatnam,Kollam Junction
+RT0109,ST0060,ST0086,1379,Thrissur,Vasai Road
+RT0110,ST0097,ST0057,2147,Tumakuru,Ernakulam Junction
+RT0111,ST0055,ST0071,1906,Krishnarajapuram,Jhansi Junction
+RT0112,ST0021,ST0096,2024,Mumbai Central,Davangere
+RT0113,ST0058,ST0034,1092,Thiruvananthapuram Central,Kota Junction
+RT0114,ST0082,ST0036,2064,Gandhinagar Capital,Ludhiana Junction
+RT0115,ST0081,ST0031,1204,Bikaner Junction,Surat
+RT0116,ST0057,ST0010,1250,Ernakulam Junction,Bengaluru City Junction
+RT0117,ST0031,ST0035,1455,Surat,Amritsar Junction
+RT0118,ST0041,ST0070,410,Kanpur Central,Gwalior Junction
+RT0119,ST0018,ST0020,1027,Hazrat Nizamuddin,Anand Vihar Terminal
+RT0120,ST0050,ST0089,705,Puri,Panvel
+RT0121,ST0091,ST0028,343,Aurangabad,Indore Junction
+RT0122,ST0054,ST0053,1435,Yesvantpur Junction,Bengaluru Cantt
+RT0123,ST0070,ST0060,1783,Gwalior Junction,Thrissur
+RT0124,ST0008,ST0027,1800,Tirunelveli Junction,Bhopal Junction
+RT0125,ST0050,ST0099,160,Puri,Karimnagar
+RT0126,ST0098,ST0074,1638,Hassan,Ambala Cantt
+RT0127,ST0062,ST0001,1520,Alappuzha,Chennai Central
+RT0128,ST0039,ST0097,1677,Shri Mata Vaishno Devi Katra,Tumakuru
+RT0129,ST0054,ST0069,983,Yesvantpur Junction,Ujjain Junction
+RT0130,ST0063,ST0029,1197,Palakkad Junction,Ahmedabad Junction
+RT0131,ST0056,ST0063,198,Kozhikode,Palakkad Junction
+RT0132,ST0050,ST0044,1736,Puri,Patna Junction
+RT0133,ST0093,ST0022,1994,Kolhapur,Chhatrapati Shivaji Maharaj Terminus
+RT0134,ST0017,ST0080,190,New Delhi,Jodhpur Junction
+RT0135,ST0051,ST0076,191,Guwahati,Meerut City
+RT0136,ST0011,ST0083,1835,Mysuru Junction,Rajkot Junction
+RT0137,ST0018,ST0060,824,Hazrat Nizamuddin,Thrissur
+RT0138,ST0007,ST0034,1632,Erode Junction,Kota Junction
+RT0139,ST0042,ST0028,1942,Prayagraj Junction,Indore Junction
+RT0140,ST0042,ST0044,1632,Prayagraj Junction,Patna Junction
+RT0141,ST0036,ST0097,1806,Ludhiana Junction,Tumakuru
+RT0142,ST0033,ST0011,2006,Ajmer Junction,Mysuru Junction
+RT0143,ST0003,ST0096,293,Coimbatore Junction,Davangere
+RT0144,ST0045,ST0029,361,Ranchi Junction,Ahmedabad Junction
+RT0145,ST0100,ST0084,244,Warangal,Surendranagar
+RT0146,ST0097,ST0004,1092,Tumakuru,Madurai Junction
+RT0147,ST0026,ST0003,704,Nagpur Junction,Coimbatore Junction
+RT0148,ST0031,ST0017,2019,Surat,New Delhi
+RT0149,ST0086,ST0015,972,Vasai Road,Vijayawada Junction
+RT0150,ST0060,ST0090,1129,Thrissur,Nashik Road
+RT0151,ST0099,ST0048,767,Karimnagar,Kolkata
+RT0152,ST0078,ST0096,549,Bareilly Junction,Davangere
+RT0153,ST0100,ST0021,1354,Warangal,Mumbai Central
+RT0154,ST0014,ST0075,185,Secunderabad Junction,Panipat Junction
+RT0155,ST0040,ST0074,1617,Lucknow Charbagh,Ambala Cantt
+RT0156,ST0051,ST0092,892,Guwahati,Solapur
+RT0157,ST0010,ST0076,1074,Bengaluru City Junction,Meerut City
+RT0158,ST0014,ST0090,1315,Secunderabad Junction,Nashik Road
+RT0159,ST0088,ST0077,575,Kalyan Junction,Ghaziabad Junction
+RT0160,ST0073,ST0006,1502,Mathura Junction,Salem Junction
+RT0161,ST0069,ST0055,1597,Ujjain Junction,Krishnarajapuram
+RT0162,ST0009,ST0065,1477,Nagercoil Junction,Mangalore Junction
+RT0163,ST0002,ST0054,2087,Chennai Egmore,Yesvantpur Junction
+RT0164,ST0014,ST0056,1563,Secunderabad Junction,Kozhikode
+RT0165,ST0082,ST0059,706,Gandhinagar Capital,Kollam Junction
+RT0166,ST0056,ST0023,1186,Kozhikode,Bandra Terminus
+RT0167,ST0079,ST0069,2060,Moradabad Junction,Ujjain Junction
+RT0168,ST0060,ST0056,1179,Thrissur,Kozhikode
+RT0169,ST0042,ST0032,434,Prayagraj Junction,Jaipur Junction
+RT0170,ST0036,ST0058,1078,Ludhiana Junction,Thiruvananthapuram Central
+RT0171,ST0097,ST0060,1632,Tumakuru,Thrissur
+RT0172,ST0044,ST0004,2104,Patna Junction,Madurai Junction
+RT0173,ST0042,ST0024,2077,Prayagraj Junction,Dadar Central
+RT0174,ST0028,ST0046,1138,Indore Junction,Howrah Junction
+RT0175,ST0044,ST0036,1211,Patna Junction,Ludhiana Junction
+RT0176,ST0072,ST0002,2196,Agra Cantt,Chennai Egmore
+RT0177,ST0025,ST0011,1068,Pune Junction,Mysuru Junction
+RT0178,ST0093,ST0053,2081,Kolhapur,Bengaluru Cantt
+RT0179,ST0072,ST0098,1064,Agra Cantt,Hassan
+RT0180,ST0089,ST0061,2090,Panvel,Kottayam
+RT0181,ST0058,ST0003,461,Thiruvananthapuram Central,Coimbatore Junction
+RT0182,ST0038,ST0029,1736,Dehradun,Ahmedabad Junction
+RT0183,ST0089,ST0032,1334,Panvel,Jaipur Junction
+RT0184,ST0085,ST0075,1591,Bhavnagar Terminus,Panipat Junction
+RT0185,ST0061,ST0071,1488,Kottayam,Jhansi Junction
+RT0186,ST0055,ST0096,1434,Krishnarajapuram,Davangere
+RT0187,ST0046,ST0090,1938,Howrah Junction,Nashik Road
+RT0188,ST0035,ST0040,1109,Amritsar Junction,Lucknow Charbagh
+RT0189,ST0030,ST0016,868,Vadodara Junction,Visakhapatnam
+RT0190,ST0041,ST0016,838,Kanpur Central,Visakhapatnam
+RT0191,ST0025,ST0028,2063,Pune Junction,Indore Junction
+RT0192,ST0036,ST0093,1239,Ludhiana Junction,Kolhapur
+RT0193,ST0013,ST0025,1293,Hyderabad Deccan,Pune Junction
+RT0194,ST0030,ST0047,814,Vadodara Junction,Sealdah
+RT0195,ST0039,ST0002,598,Shri Mata Vaishno Devi Katra,Chennai Egmore
+RT0196,ST0036,ST0006,303,Ludhiana Junction,Salem Junction
+RT0197,ST0071,ST0038,597,Jhansi Junction,Dehradun
+RT0198,ST0082,ST0097,2090,Gandhinagar Capital,Tumakuru
+RT0199,ST0014,ST0002,1244,Secunderabad Junction,Chennai Egmore
+RT0200,ST0061,ST0062,1884,Kottayam,Alappuzha
+RT0201,ST0044,ST0024,290,Patna Junction,Dadar Central
+RT0202,ST0033,ST0062,547,Ajmer Junction,Alappuzha
+RT0203,ST0009,ST0052,2094,Nagercoil Junction,New Jalpaiguri
+RT0204,ST0010,ST0074,299,Bengaluru City Junction,Ambala Cantt
+RT0205,ST0020,ST0073,1324,Anand Vihar Terminal,Mathura Junction
+RT0206,ST0011,ST0032,565,Mysuru Junction,Jaipur Junction
+RT0207,ST0072,ST0098,1784,Agra Cantt,Hassan
+RT0208,ST0078,ST0077,1004,Bareilly Junction,Ghaziabad Junction
+RT0209,ST0100,ST0067,1638,Warangal,Vasco da Gama
+RT0210,ST0058,ST0057,1297,Thiruvananthapuram Central,Ernakulam Junction
+RT0211,ST0076,ST0055,1330,Meerut City,Krishnarajapuram
+RT0212,ST0073,ST0080,326,Mathura Junction,Jodhpur Junction
+RT0213,ST0079,ST0095,486,Moradabad Junction,Hubballi Junction
+RT0214,ST0098,ST0027,944,Hassan,Bhopal Junction
+RT0215,ST0034,ST0085,412,Kota Junction,Bhavnagar Terminus
+RT0216,ST0021,ST0031,791,Mumbai Central,Surat
+RT0217,ST0071,ST0010,721,Jhansi Junction,Bengaluru City Junction
+RT0218,ST0001,ST0053,1925,Chennai Central,Bengaluru Cantt
+RT0219,ST0089,ST0077,2004,Panvel,Ghaziabad Junction
+RT0220,ST0038,ST0005,1028,Dehradun,Tiruchirappalli Junction
+RT0221,ST0037,ST0091,1238,Chandigarh,Aurangabad
+RT0222,ST0090,ST0059,371,Nashik Road,Kollam Junction
+RT0223,ST0088,ST0030,1163,Kalyan Junction,Vadodara Junction
+RT0224,ST0081,ST0076,890,Bikaner Junction,Meerut City
+RT0225,ST0055,ST0015,1000,Krishnarajapuram,Vijayawada Junction
+RT0226,ST0083,ST0020,1168,Rajkot Junction,Anand Vihar Terminal
+RT0227,ST0019,ST0010,324,Delhi Junction,Bengaluru City Junction
+RT0228,ST0022,ST0040,1262,Chhatrapati Shivaji Maharaj Terminus,Lucknow Charbagh
+RT0229,ST0057,ST0016,1999,Ernakulam Junction,Visakhapatnam
+RT0230,ST0089,ST0039,1728,Panvel,Shri Mata Vaishno Devi Katra
+RT0231,ST0035,ST0065,2102,Amritsar Junction,Mangalore Junction
+RT0232,ST0057,ST0011,243,Ernakulam Junction,Mysuru Junction
+RT0233,ST0056,ST0095,1400,Kozhikode,Hubballi Junction
+RT0234,ST0078,ST0033,185,Bareilly Junction,Ajmer Junction
+RT0235,ST0012,ST0030,164,Mangaluru Central,Vadodara Junction
+RT0236,ST0098,ST0087,1183,Hassan,Thane
+RT0237,ST0074,ST0006,797,Ambala Cantt,Salem Junction
+RT0238,ST0061,ST0067,1891,Kottayam,Vasco da Gama
+RT0239,ST0036,ST0024,1865,Ludhiana Junction,Dadar Central
+RT0240,ST0082,ST0063,453,Gandhinagar Capital,Palakkad Junction
+RT0241,ST0061,ST0045,1752,Kottayam,Ranchi Junction
+RT0242,ST0043,ST0042,508,Varanasi Junction,Prayagraj Junction
+RT0243,ST0021,ST0043,1766,Mumbai Central,Varanasi Junction
+RT0244,ST0089,ST0064,1260,Panvel,Kannur
+RT0245,ST0085,ST0052,230,Bhavnagar Terminus,New Jalpaiguri
+RT0246,ST0059,ST0012,1368,Kollam Junction,Mangaluru Central
+RT0247,ST0033,ST0042,554,Ajmer Junction,Prayagraj Junction
+RT0248,ST0099,ST0052,2187,Karimnagar,New Jalpaiguri
+RT0249,ST0001,ST0085,1972,Chennai Central,Bhavnagar Terminus
+RT0250,ST0053,ST0007,848,Bengaluru Cantt,Erode Junction
+RT0251,ST0067,ST0047,2121,Vasco da Gama,Sealdah
+RT0252,ST0081,ST0057,291,Bikaner Junction,Ernakulam Junction
+RT0253,ST0027,ST0035,616,Bhopal Junction,Amritsar Junction
+RT0254,ST0037,ST0057,2065,Chandigarh,Ernakulam Junction
+RT0255,ST0016,ST0004,1060,Visakhapatnam,Madurai Junction
+RT0256,ST0091,ST0021,1352,Aurangabad,Mumbai Central
+RT0257,ST0071,ST0002,1751,Jhansi Junction,Chennai Egmore
+RT0258,ST0012,ST0029,544,Mangaluru Central,Ahmedabad Junction
+RT0259,ST0060,ST0016,710,Thrissur,Visakhapatnam
+RT0260,ST0064,ST0092,1275,Kannur,Solapur
+RT0261,ST0066,ST0091,1199,Goa Madgaon,Aurangabad
+RT0262,ST0054,ST0062,2014,Yesvantpur Junction,Alappuzha
+RT0263,ST0032,ST0059,672,Jaipur Junction,Kollam Junction
+RT0264,ST0050,ST0025,2161,Puri,Pune Junction
+RT0265,ST0096,ST0018,365,Davangere,Hazrat Nizamuddin
+RT0266,ST0036,ST0099,1779,Ludhiana Junction,Karimnagar
+RT0267,ST0044,ST0065,1174,Patna Junction,Mangalore Junction
+RT0268,ST0001,ST0037,1302,Chennai Central,Chandigarh
+RT0269,ST0076,ST0075,2085,Meerut City,Panipat Junction
+RT0270,ST0020,ST0058,2063,Anand Vihar Terminal,Thiruvananthapuram Central
+RT0271,ST0045,ST0043,1625,Ranchi Junction,Varanasi Junction
+RT0272,ST0059,ST0042,852,Kollam Junction,Prayagraj Junction
+RT0273,ST0090,ST0031,1648,Nashik Road,Surat
+RT0274,ST0030,ST0100,1762,Vadodara Junction,Warangal
+RT0275,ST0006,ST0041,2017,Salem Junction,Kanpur Central
+RT0276,ST0091,ST0049,1661,Aurangabad,Bhubaneswar
+RT0277,ST0085,ST0084,703,Bhavnagar Terminus,Surendranagar
+RT0278,ST0064,ST0005,597,Kannur,Tiruchirappalli Junction
+RT0279,ST0065,ST0076,1439,Mangalore Junction,Meerut City
+RT0280,ST0013,ST0057,488,Hyderabad Deccan,Ernakulam Junction
+RT0281,ST0068,ST0059,142,Ratlam Junction,Kollam Junction
+RT0282,ST0093,ST0019,1759,Kolhapur,Delhi Junction
+RT0283,ST0084,ST0020,386,Surendranagar,Anand Vihar Terminal
+RT0284,ST0061,ST0034,1466,Kottayam,Kota Junction
+RT0285,ST0080,ST0089,1708,Jodhpur Junction,Panvel
+RT0286,ST0084,ST0011,1425,Surendranagar,Mysuru Junction
+RT0287,ST0087,ST0069,1636,Thane,Ujjain Junction
+RT0288,ST0041,ST0081,2078,Kanpur Central,Bikaner Junction
+RT0289,ST0070,ST0005,360,Gwalior Junction,Tiruchirappalli Junction
+RT0290,ST0031,ST0081,1257,Surat,Bikaner Junction
+RT0291,ST0030,ST0096,450,Vadodara Junction,Davangere
+RT0292,ST0056,ST0013,491,Kozhikode,Hyderabad Deccan
+RT0293,ST0057,ST0022,1306,Ernakulam Junction,Chhatrapati Shivaji Maharaj Terminus
+RT0294,ST0004,ST0006,1408,Madurai Junction,Salem Junction
+RT0295,ST0008,ST0038,1548,Tirunelveli Junction,Dehradun
+RT0296,ST0048,ST0056,676,Kolkata,Kozhikode
+RT0297,ST0032,ST0068,1767,Jaipur Junction,Ratlam Junction
+RT0298,ST0073,ST0088,817,Mathura Junction,Kalyan Junction
+RT0299,ST0022,ST0023,403,Chhatrapati Shivaji Maharaj Terminus,Bandra Terminus
+RT0300,ST0079,ST0049,1066,Moradabad Junction,Bhubaneswar
